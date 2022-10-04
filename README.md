@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=elmoneto&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-elmo-i5zbmn8bd-elmoneto.vercel.app/api?username=elmoneto&theme=highcontrast&show_icons=true&count_private=true)
