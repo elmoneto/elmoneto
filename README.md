@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Elmo Neto](https://github-readme-stats.vercel.app/api?username=elmoneto)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=elmoneto&theme=highcontrast&show_icons=true&count_private=true)
