@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats-elmo-i5zbmn8bd-elmoneto.vercel.app/api?username=elmoneto&theme=highcontrast&show_icons=true&count_private=true)
-![Most used languages](https://github-readme-stats-elmo-i5zbmn8bd-elmoneto.app/api/top-langs/?username=elmoneto&layout=compact&theme=merko&hide=css,html,jupyter%20notebook)
+![Most used languages](https://github-readme-stats-elmo-i5zbmn8bd-elmoneto.vercel.app/api/top-langs/?username=elmoneto&layout=compact&theme=merko)
