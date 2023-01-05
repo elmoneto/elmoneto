@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats-elmo-i5zbmn8bd-elmoneto.vercel.app/api?username=elmoneto&layout=compact&theme=merko&show_icons=true&count_private=true&hide_rank=true&custom_title=Estatísticas)
-![Most used languages](https://github-readme-stats-elmo-i5zbmn8bd-elmoneto.vercel.app/api/top-langs/?username=elmoneto&layout=compact&theme=merko&hide=jupyter%20notebook,TeX&custom_title=Linguagens%20mais%20utilizadas)
